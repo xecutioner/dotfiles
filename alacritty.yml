@@ -1,0 +1,12 @@
+# Font settings 
+font:
+  normal:
+    family: Source Code Pro
+  size: 16.0
+
+# Transparency of window
+window:
+  opacity: 0.8
+
+# soft tab
+tabspaces: 2
